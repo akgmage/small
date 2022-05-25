@@ -1,0 +1,4 @@
+/* Finds host element of app component <app-root>*/
+:host {
+    display: flex;
+}
